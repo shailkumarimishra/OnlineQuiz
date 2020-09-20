@@ -1,0 +1,44 @@
+.green {
+	color: green;
+}
+
+.purple {
+	color: purple;
+}
+
+.blue {
+	color: blue;
+}
+
+.gray {
+	color: gray;
+}
+
+body {
+	background-color: #2E2E2E;
+}
+
+h2.quiz-title {
+	color: white;
+	text-align: center;
+	text-decoration:underline;
+}
+h2.report-title {
+	color: white;
+	text-align: center;
+}
+h4.quiz-status{
+	color: white;
+	text-align: center;
+}
+.btn{
+	float: right;
+	margin: 10px;
+}
+hr{
+	margin-top: 1rem;
+	margin-bottom: 2rem;
+	border:0;
+	border-top: 1px solid #f8f9fa;
+	
+}
