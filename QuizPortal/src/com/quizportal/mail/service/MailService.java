@@ -13,8 +13,8 @@ import javax.mail.internet.MimeMessage;
 
 //https://myaccount.google.com/lesssecureapps
 public class MailService {
-	private static final String PWD = "sh@il123";
-	private static final String EMAIL = "shailtinu2000@gmail.com";
+	private static final String PWD = "myp@ssword29@";
+	private static final String EMAIL = "shailkumarimishra29@gmail.com";
 
 	public static void sendMail(String to, String subject, String data) {
 		try {
