@@ -15,6 +15,7 @@
 	 <link rel="stylesheet" href="static/css/quiz.css"> 
 	<link rel="stylesheet" href="static/css/login.css">
 	<link rel="stylesheet" type="text/css" href="static/css/remove-signup.css">
+	<link rel="stylesheet" type="text/css" href="static/css/remove-courseschoice.css">
 	<link rel="stylesheet" type="text/css" href="static/css/forgot.css">
 	<link rel="stylesheet" type="text/css" href="static/css/quizchoice.css">
 

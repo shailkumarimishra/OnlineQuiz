@@ -24,7 +24,33 @@
 				world of quiz!!</marquee>
 		</div>
 		<div class="bg">
-			<h1>We provide you the best platform for quiz!!</h1>
+			<h1 style="font-size: larger;">
+			<span style="font-weight: 800; font-size:xx-large;">
+			We provide you the best platform for quiz!!<br>
+			</span>
+			 <br>
+			 <span style="color:red; font-weight: 800; font-size: x-large;">
+			 " I don't pretend we have all the answers.<br>
+			 But the questions are certainly worth thinking about. "
+			 <br>
+			 -- Arthur C. Clarke 
+			 </span>
+			 <br>
+			 <br>
+			<br>
+				We help you to succeed in your certification exams and campus recruitment level coding questions.
+				<br>
+				We are ready to help millions of working professionals to achieve their career goals with our online practice tests.   
+			
+			<br>
+			<br>
+			Have you ever felt like it was impossible to keep up with new developments in the ever-changing tech world?
+			<br>
+			We understand the importance of passing the certification exams and cracking the top MNC's
+			<br> that's why we don't compromise with the quality of the test.
+			
+			</h1>
+			
 		</div>
 	<footer class="footer">
 		<jsp:include page="footer.jsp" />

@@ -7,6 +7,27 @@
 		</h4>
 		<a href="homepage.jsp"><button class="left btn btn-primary">Home</button></a>
 		<a href="contact.jsp"><button class="left btn btn-primary">Contacts</button></a>
+		<form class="select_courses">
+	<select name="Courses" id="Course_list" accesskey="target" style="background: brown;color:white; height: 40px; margin-top: 20px; margin-left: 15px; border-radius: 10%; border: none;">
+	    <option value="none" selected>Select A Quiz</option>
+	    <option value="login.jsp">C</option>
+	    <option value="login.jsp">C++</option>
+	    <option value="login.jsp">Java</option>
+	</select>
+	<input type=button value="Go" onclick="goToNewPage()" style="background: brown; color:white; height: 40px; margin-top: 20px; margin-left: 15px; border-radius: 10%; border: none;"/>
+</form>
+
+
+<script type="text/javascript">
+    function goToNewPage()
+    {
+        var url = document.getElementById('Course_list').value;
+        if(url != 'none') {
+            window.location = url;
+  	    }
+    }
+</script>
+		
 	</div>
 	<div class="nav navbar-right quiz-login">
 		<a href="login.jsp"><button class="right btn btn-sm btn-primary">Login/Sign

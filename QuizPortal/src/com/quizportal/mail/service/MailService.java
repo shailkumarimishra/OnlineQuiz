@@ -11,10 +11,10 @@ import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
-//https://myaccount.google.com/lesssecureapps
+//https://myaccount.google.com/lesssecureappshttps://myaccount.google.com/lesssecureapps
 public class MailService {
-	private static final String PWD = "myp@ssword29@";
-	private static final String EMAIL = "shailkumarimishra29@gmail.com";
+	private static final String PWD = "Quiz@123";
+	private static final String EMAIL = "quizoholic123@gmail.com";
 
 	public static void sendMail(String to, String subject, String data) {
 		try {
